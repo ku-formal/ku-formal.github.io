@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about3
+title: about
 permalink: /
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
