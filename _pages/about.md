@@ -1,7 +1,6 @@
 ---
 layout: about
 
-
 title: About
 permalink: /
 
@@ -17,7 +16,7 @@ profile:
   # <p>Your City, State 12345</p>
 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -32,12 +31,3 @@ social: false  # includes social icons at the bottom of the page
   <a href="https://www.gist.ac.kr/kr/main.html"> GIST (Gwangju Institute of Science and Technology)</a><br>
   <a href="assets/pdf/cv-sunbeom.pdf">[CV]</a> <a href= "https://scholar.google.com/citations?user=UTug1PgAAAAJ&hl=ko">[Google Scholar]</a>
 </p>
-
-Welcome to Program Analysis Laboratory at GIST!
-<img src="assets/img/sunbeom-2023.jpg" height="100" right/>
-
-
-Write your biography here. Tell the world about yourself.
-Link to your favorite [subreddit](http://reddit.com).
-You can put a picture in, too.
-The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
