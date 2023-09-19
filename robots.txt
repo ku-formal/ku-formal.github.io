@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gist-pal.github.io/gist-pal/sitemap.xml
+Sitemap: https://gist-pal.github.io/sitemap.xml
