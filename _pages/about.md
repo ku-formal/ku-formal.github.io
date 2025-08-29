@@ -8,7 +8,7 @@ subtitle:
 
 profile:
   align: left
-  image: sunbeom-2023.jpg
+  image: sunbeom-2025.jpeg
   image_circular: false # crops the image to make it circular
   # address:
   # <p>555 your office number</p>
